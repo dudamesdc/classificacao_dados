@@ -50,5 +50,5 @@ A **Árvore de Decisão** é um modelo de aprendizado supervisionado usado tanto
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/usuario/classificacao-dados.git
-   cd classificacao-dados
+   git clone https://github.com/dudamesdc/classificacao_dados.git
+   cd classificacao_dados
